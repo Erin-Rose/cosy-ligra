@@ -1,6 +1,6 @@
 # Cosy-ligra
 
-This repository is a fork of Jana's [Ligra](https://github.com/Jana-Marie/ligra), documenting my Ligra build. This variant of Ligra is optimised for my specific set of tools, current interests, and locally available fasteners, rather than for broad reproducibility. 
+This repository is a fork of Jana's [Ligra](https://github.com/Jana-Marie/ligra), documenting my build. This variant is optimised for my specific set of tools, current interests, and locally available fasteners, rather than for broad reproducibility. 
 
 "Cosy-ligra" uses only two extrusions, purely for aesthetics (and because I had 2 of the perfect length already..), and as such isn't really rugged enough for outdoor use. I will be using it for indoor art projection mostly. 
 
@@ -27,3 +27,4 @@ This repo is very WIP and shall be expanded soon c:
 - [ ] Add PCB sources
 - [x] Add PCB art source
   - [ ] add Affinity source, and SVG / Bitmap exports
+- [ ] Take and add some pretty images
